@@ -6,6 +6,6 @@ Many of us have applications on our phones that will allow us to read QR codes t
 # Home
 The homepage of the application will first ask you for the necessary permissions to access your device's camera. If you give the permissions, the application will be able to read the codes from the camera and then If it reads the QR code, it will direct you to the link page.
 
-# BDirection Page
+# Direction Page
 After scanning the QR code, you will be able to see the address of the website you will be directed to on the link page that the application directs you to.
 
