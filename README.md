@@ -1,11 +1,11 @@
-# QR Kod Okuma Uygulaması
+# QR Code Scanning App
 
-# Proje Özeti
-Pek çoğumuzun telefonunda çeşitli bağlantılara bizi kısayoldan yönlendirecek QR kodları okumayı sağlayacak uygulamalar var ancak ben de hem kendi portfolyoma katkıda bulunması adına hem de yazılımda yeni şeyler öğrenip kendimi geliştirmek adına benzer bir uygulama geliştirmek istedim.
+# Project Summary
+Many of us have applications on our phones that will allow us to read QR codes that will direct us to various links from a shortcut, but I wanted to develop a similar application both in order to contribute to my own portfolio and to learn new things in software and improve myself.
 
-# Anasayfa
-Uygulamanın anasayfası öncelikle cihazınızın kamerasına erişmek için sizden gerekli izinleri isteyecek.Bu izinleri verdiğiniz takdirde uygulama kameradan kodları okuyabilir hale gelecek ve ardından herhangi bir QR kod okuduğu takdirde sizi bağlantı sayfasına yönlendirecek.
+# Home
+The homepage of the application will first ask you for the necessary permissions to access your device's camera. If you give the permissions, the application will be able to read the codes from the camera and then If it reads the QR code, it will direct you to the link page.
 
-# Bağlantı Sayfası
-QR kodu okuttuktan sonra uygulamanın sizi yönlendirdiği bağlantı sayfasında yönlendirileceğiniz web sitesinin adresini görebileceksiniz.Eğer web sitesi adresinde sakıncalı bir durum da görmezseniz bağlantıya git butonuna basarak ilgili web sayfasına yönlendirileceksiniz.
+# BDirection Page
+After scanning the QR code, you will be able to see the address of the website you will be directed to on the link page that the application directs you to.
 
